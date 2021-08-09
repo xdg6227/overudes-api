@@ -1,0 +1,31 @@
+{
+  "name": "overudes-api",
+  "version": "1.0.1",
+  "description": "🤖 A new NPM Package full of API callbacks for your Discord bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdg6227/overudes-api.git"
+  },
+  "keywords": [
+    "discord",
+    "nodejs",
+    "npm",
+    "npm-package",
+    "npm-module",
+    "node-js",
+    "node-module"
+  ],
+  "author": "xdg6227",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdg6227/overudes-api/issues"
+  },
+  "homepage": "https://overudes-api.js.org",
+  "dependencies": {
+    "overudes-api": "^1.0.0"
+  }
+}
